@@ -23,4 +23,4 @@ Please check the branch for the early or the last version of the project.
 
 # Serialisation & History
 The current Cyclops is an evolution of several design trials.
-The current Cyclops-K-Mark-II.2 requires more development to achieve its full potential.
+The current Cyclops-K-Mark-II.2 is not as stable as we would like and does not provide the calculted flight time, and it requires more development to achieve its full potential.
