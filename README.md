@@ -1,6 +1,6 @@
 # Cyclops / Cyclope Indorr Drone Community Edition
 
-This is the repository for the Community Edition Release of the community of makers from Neva Aerospace Ltd (UK) for the turbo-drone Cyclope series for Indoor.
+This is the repository for the Community Edition Release of the community of makers from Neva Aerospace Ltd (UK) for the turbo-drone Cyclope / Cyclops series for Indoor.
 
 ![Cyclope v2 modifie - mise en situation interieur usine 2](https://github.com/Community-Open-Thrust/Cyclops_Community/assets/24481026/9bfa2a1b-d031-4c75-9db3-2163f859ed4a)
 
