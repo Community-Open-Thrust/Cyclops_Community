@@ -20,7 +20,8 @@ The main of repository will be locked to the initial commit to avoid losing info
 Please do create a new branch for a new version or create your own fork.
 Please check the branch for the early or the last version of the project.
 
-
 # Serialisation & History
 The current Cyclops is an evolution of several design trials.
-The current Cyclops-K-Mark-II.2 is not as stable as we would like and does not provide the calculted flight time, and it requires more development to achieve its full potential.
+The current Cyclops-K-Mark-II.2 
+
+It is not as stable as we would like and does not provide the calculted flight time, and it requires more development to achieve its full potential.
