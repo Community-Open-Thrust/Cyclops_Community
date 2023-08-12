@@ -14,7 +14,7 @@ https://ohwr.org/cern_ohl_s_v2.pdf
 The LICENCE IS CERN Open Hardware Licence V2 "CERN-OHL-S V2" (Strongly Reciprocal). It applies to this repositrory and all Open-Thurst Community Repositories and contained sources.
 
 Any further fork and/or modification must bear the following "Acknowledgement Notice" as per chapter 1.10 of Definition of the CERN-OHL-S V2 Licence:
-"Acknowledgement of the Original Authors: Neva-Aero and the Human Team Members between 2016 and 2022 : F.M. Robert Vergnes, Valentin Bertrand, Kevin Pantoja, Olivier Chevillard, Elie de Fonclare, David Brotherton-Ratcliffe, Renaud-Pierre Blanpain, Anthony Gambus", and "Cyclops Series - Open-Thrust Community Edition - Licence CERN-OSL-S-V2", both Notice to be visible in the documentation with a link to the github Source.
+"Acknowledgement of the Original Authors: Neva-Aero and the Human Team Members between 2016 and 2022 : F.M. Robert Vergnes, Valentin Bertrand, Kevin Pantoja, Olivier Chevillard, Elie de Fonclare, David Brotherton-Ratcliffe, Renaud-Pierre Blanpain, Anthony Gambus", and "Cyclops Series - Open-Thrust Community Edition - Licence CERN-OHL-S-V2", both Notice to be visible in the documentation with a link to the github Source.
 
 And as per chapter 4 , the Visible Notice is "Cyclops Series - Open-Thrust Community Edition - Licence CERN-OSL-S-V2" and must be visible on the product.
 
