@@ -27,7 +27,8 @@ Please check the branch for the early or the last version of the project.
 # Serialisation & History
 The current Cyclops-K-Mark-II.2, it is an evolution of several design trials.
 The first flight occured in May 2021 and then the prototyping went through several iterations.
-The Cyclope-K-Mark-II has limitations and with a poor flight time, and it requires more development to achieve its full potential.
+The Cyclope-K-Mark-II has limitations and it requires more development to achieve its full potential.
+
 
 # Warranties & Disclaimers
 
